@@ -1,0 +1,13 @@
+[
+    {
+      "message": "This is a customizable alert test",
+      "background": "black",
+      "color": "white"
+    },
+    {
+      "message": "this is a second important announcement!",
+      "background": "red",
+      "color": "white"
+    }
+  ]
+  
